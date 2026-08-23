@@ -85,7 +85,7 @@ The simulation intentionally distinguishes between observations and conclusions.
 ▶️ Running the Project
 
 1. Clone the repository
-git clone <repository-url>
+git clone <[repository-url](https://github.com/AishwaryaMShenoy/Operation-ShadowMap)>
 
 2. Navigate to the project directory
 cd Operation-ShadowMap
