@@ -98,25 +98,6 @@ streamlit run Operation_Shadowmap.py
 
 The application will open in your browser.
 
----
-📁 Project Structure
-
-Operation-ShadowMap/
-│
-├── pages/
-│   ├── 1_Mission_Briefing.py
-│   ├── 2_Host_Discovery.py
-│   ├── 3_Port_Investigation.py
-│   ├── 4_Packet_Detective.py
-│   ├── 5_TCP_Handshake.py
-│   ├── 6_Invisible_Host.py
-│   ├── 7_Attack_Surface_Map.py
-│   ├── 8_Final_Mission.py
-│   └── 9_Blue_Team.py
-│
-├── Operation_Shadowmap.py
-├── requirements.txt
-└── README.md
 
 ⚠️ Disclaimer
 
